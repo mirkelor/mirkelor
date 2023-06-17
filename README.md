@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=mirkelor&show_icons=true&hide_border=true" alt="Mirkelor Github Stats">
 </br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=mirkelor.mirkelor" alt="Mirkelor visitors">
+<img src="https://komarev.com/ghpvc/?username=mirkelor" alt="Mirkelor visitors">
 
 </div>
